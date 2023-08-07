@@ -1,3 +1,14 @@
+**Scenario:**
+
+An enterprise financial organization has a plan to modernize their legacy applications silos and move them to the cloud native applications through 6R Strategy. They want to provision their Infrastructure using GitOps and Kubernetes. 
+
+
+They are interested in seeing how they can leverage Azure Kubernetes as a Kubernetes managed platform, Kubernetes CD pipeline, GitOps and Argo CD/Flux in their transformation.
+
+
+As a senior DevOps consultant, you are going to have a presentation and demo for CTO to introduce all above red coloured terminologies.
+
+
 # Step 1: Introduction
 "Modernization and Cloud-Native Transformation using GitOps and Kubernetes." In this session, we will explore how an enterprise financial organization can leverage modern technologies to revamp its legacy applications and embrace cloud-native practices for improved agility, scalability, and efficiency.
 
