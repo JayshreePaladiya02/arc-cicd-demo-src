@@ -161,7 +161,7 @@ GitOps Connector creates a connection between the Flux agent and the GitOps Repo
   # Kubernetes clusters
 At least one Azure Arc-enabled Kubernetes or Azure Kubernetes Service (AKS) cluster serves the different environments needed by the application. For example, a single cluster can serve both a dev and QA environment through different namespaces. A second cluster can provide easier separation of environments and more fine-grained control.
 
-  # Example workflow
+   **Example workflow**
   As an application developer, Alice:
 
   - Writes application code.
@@ -179,11 +179,11 @@ Please see the tutorial at <https://docs.microsoft.com/azure/azure-arc/kubernete
 
 In this tutorial, you'll set up a CI/CD solution using GitOps with Flux v2 and Azure Arc-enabled Kubernetes or Azure Kubernetes Service (AKS) clusters. Using the sample Azure Vote app, you'll:
 
-Create an Azure Arc-enabled Kubernetes or AKS cluster.
-Connect your application and GitOps repositories to Azure Repos or GitHub.
-Implement CI/CD flow with either Azure Pipelines or GitHub.
-Connect your Azure Container Registry to Azure DevOps and Kubernetes.
-Create environment variable groups or secrets.
-Deploy the dev and stage environments.
-Test the application environments.
+- Create an Azure Arc-enabled Kubernetes or AKS cluster.
+- Connect your application and GitOps repositories to Azure Repos or GitHub.
+- Implement CI/CD flow with either Azure Pipelines or GitHub.
+- Connect your Azure Container Registry to Azure DevOps and Kubernetes.
+- Create environment variable groups or secrets.
+- Deploy the dev and stage environments.
+- Test the application environments.
 
