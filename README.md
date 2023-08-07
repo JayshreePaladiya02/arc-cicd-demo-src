@@ -187,14 +187,3 @@ This repo contains the sample code for the Azure Arc GitOps CI/CD tutorial.
 The GitOps repo can be found at <https://github.com/Azure/arc-cicd-demo-gitops>
 
 Please see the tutorial at <https://docs.microsoft.com/azure/azure-arc/kubernetes/tutorial-gitops-ci-cd>
-
-In this tutorial, you'll set up a CI/CD solution using GitOps with Flux v2 and Azure Arc-enabled Kubernetes or Azure Kubernetes Service (AKS) clusters. Using the sample Azure Vote app, you'll:
-
-- Create an Azure Arc-enabled Kubernetes or AKS cluster.
-- Connect your application and GitOps repositories to Azure Repos or GitHub.
-- Implement CI/CD flow with either Azure Pipelines or GitHub.
-- Connect your Azure Container Registry to Azure DevOps and Kubernetes.
-- Create environment variable groups or secrets.
-- Deploy the dev and stage environments.
-- Test the application environments.
-
